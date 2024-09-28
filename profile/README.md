@@ -29,3 +29,9 @@ Si tienes alguna duda, sugerencia o simplemente quieres decir "hola", puedes con
 
 Email: soporte@fedired.com
 Fedired en Mastodon: @fedired
+
+## Autores
+
+- [@srnovus](https://www.github.com/srnovus)
+
+- [@ibootech](www.instagram.com/ibootechgt)
