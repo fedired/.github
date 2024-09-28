@@ -1,5 +1,5 @@
 
-![Logo](img/header_.png)
+![Logo](https://github.com/fedired-dev/.github/blob/main/img/header_.png)
 
 
 <h1 align="center"><b>Bienvenido a Fedired Dev</b></h1>
