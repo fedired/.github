@@ -2,7 +2,7 @@
 ![Logo](https://github.com/fedired-dev/.github/blob/main/img/header_.png)
 
 
-<h1 align="center"><b>Bienvenido a Fedired Dev</b></h1>
+<h1 align="center"><b>Bienvenido a Fedired</b></h1>
 <h2 align="center">Hola!</h2>
 
 ---
