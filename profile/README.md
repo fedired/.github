@@ -31,7 +31,7 @@ Email: soporte@fedired.com
 Fedired en Mastodon: @fedired
 
 ## Autores
-- [@srnovus Fedired](https://fedired.com/@srnovus/)
+- [@srnovus en Fedired](https://fedired.com/@srnovus/)
 - [@srnovus](https://www.github.com/srnovus)
 
 - [@ibootech](www.instagram.com/ibootechgt)
